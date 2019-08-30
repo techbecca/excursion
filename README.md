@@ -1,4 +1,4 @@
-#Excursion Project
+# Excursion Project
 This project was done as part of a Codecademy lesson. I was handed mockups, resources, and some loose instructions on which sections to create. The instructions can be seen below
 
 ## Instructions
